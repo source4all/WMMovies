@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">WMT Movies</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="search_title">Search</string>
+    <string name="search_hint">Find Movies and Tv Shows&#8230;</string>
+
+    <string name="label_release_date">Release Date :</string>
+    <string name="label_tmdb_rated">Ratings :</string>
+    <string name="label_votecount">VoteCount :</string>
+    <string name="label_synopsis">Synopsis :</string>
+    <string name="label_casting">Casting :</string>
+    <string name="suffix_rated">/10</string>
+    <string name="label_language">Language :</string>
+    <string name="label_popularity">Popularity :</string>
+    <string name="default_search_message">Press top-right Search to find Movies and TV Shows  ! </string>
+    <string name="empty_search_message">No movies found. Press Fav bottom button to access saved Fav</string>
+
+    <string name="bottom_serach">Popular</string>
+    <string name="bottom_fav">Favorites</string>
+</resources>
