@@ -30,10 +30,12 @@ MVVM - Based on Android Architecture Components ( Seperated Screens, ViewModels 
 - |----- utils 
 - |----- adapters]
  
+ ## Design components used
 - [LiveData] 
 - [ViewModel]
 - [Observrable /  Data binding]
 - [Repository for Local & Remote Data]
+- [Screens, ViewModel & Model seperation]
 
 
 ## Libraries used
