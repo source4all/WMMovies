@@ -17,18 +17,18 @@ Supports both portrait and landscape.
 
 MVVM - Based on Android Architecture Components ( Seperated Screens, ViewModels and Models)
 
- |
- |----screens / views
- |---- viewmodels
- |---- model
- |---- NetworkAPI / Remote 
- |----  Room DB
-         |--- DAO
-         |--- Repository
-         |---- Database
+ - |
+ - |----screens / views]
+ - |---- viewmodels
+ - |---- model
+ - |---- NetworkAPI / Remote 
+ - |----  Room DB
+ -       |--- DAO
+ -       |--- Repository
+ -       |---- Database
 
- |----- utils 
- |----- adapters
+- |----- utils 
+- |----- adapters]
  
 - [LiveData] 
 - [ViewModel]
