@@ -4,6 +4,15 @@
 
 Android app that utilizes TMDB API & Key ( Key is must due to TMDB policy changes) 
 
+## Covered funtionality 
+
+1. Fetch popular movies 
+2. Live Search -  i.e. search as you type 3 or more letters.
+3. Detailed page - Added Fav buttom.
+4. Fav section displays all your favorites.
+
+Supports both portrait and landscape. 
+
 ## Code structure 
 
 MVVM - Based on Android Architecture Components ( Seperated Screens, ViewModels and Models)
